@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class PalyerController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
+    public float speed = 20.0f;
+
     void Start()
     {
         
@@ -12,6 +14,6 @@ public class PalyerController : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector3.forward * Time.deltaTime * 20);
+        transform.Translate(Vector3.forward * Time.deltaTime * speed);
     }
 }
