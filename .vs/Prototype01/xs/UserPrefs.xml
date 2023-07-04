@@ -1,14 +1,20 @@
 ﻿<Properties StartupConfiguration="{8A23F78B-8939-2B60-F458-7E6B57885877}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FollowPlayer.cs">
     <Files>
-      <File FileName="Assets/Scripts/PalyerController.cs" Line="6" Column="17" />
-      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="9" Column="51" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="84" />
+      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="9" Column="50" />
+      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="23" Column="38" />
+      <File FileName="Assets/Challenge 1/Scripts/SpinPropeller.cs" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype01" expanded="True">
             <Node name="Assets" expanded="True">
+              <Node name="Challenge 1" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
               <Node name="Scripts" expanded="True">
                 <Node name="FollowPlayer.cs" selected="True" />
               </Node>
@@ -20,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5092c58e-04ff-428d-9471-3259d3516ca8" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="37aeb661-f0cd-4da7-b5a3-8a78192a3840" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
